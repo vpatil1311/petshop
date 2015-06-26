@@ -1,0 +1,218 @@
+INSERT INTO PET.PRODUCTS ( product_id,
+         DESCRIPTION,
+         NAME,
+         PRICE,
+         CATEGORY_ID) VALUES (1,
+         'Nutrition food for pets',
+         'Pedigree Puppy',
+         100,
+         3 );
+
+INSERT INTO PET.PRODUCTS ( product_id,
+         DESCRIPTION,
+         NAME,
+         PRICE,
+         CATEGORY_ID) VALUES (2,
+         'Adult dog food',
+         'Pedigree Adult',
+         150,
+         3 );
+
+INSERT INTO PET.PRODUCTS ( product_id,
+         DESCRIPTION,
+         NAME,
+         PRICE,
+         CATEGORY_ID) VALUES (3,
+         'Chappie is a complete pet food for adult dogs.Easily digestible.',
+         'Chappie Chicken and Rice',
+         1000,
+         3 );
+		 
+INSERT INTO PET.PRODUCTS ( product_id,
+         DESCRIPTION,
+         NAME,
+         PRICE,
+         CATEGORY_ID) VALUES (4,
+         'GREAT INTERACTIVE DOG TOYS FUN, ENJOYMENT AND EXERCISE FOR DOG',
+         'Toy on Rope Vinyl',
+         200,
+         4 );
+		 
+ 
+INSERT INTO PET.PRODUCTS ( product_id,
+         DESCRIPTION,
+         NAME,
+         PRICE,
+         CATEGORY_ID) VALUES (5,
+         'Soft & Squeeky Toy for Puppy',
+         'Puppy Latex Sneaker',
+         300,
+         4 );
+
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (6,
+         'ergocomfort tattoo collars',
+         'Adjustable dog collar with internal padding Dimensions: A: 43÷51 cm - B: 25 mm',
+        300,
+         5);
+
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (7,
+         'COLLAR MODERN ART BLACK&WHITE',
+         'This Modern Art dog collar features a stylish BLACK&WHITE ALPINE, with black background',
+        300,
+         5);
+		 
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (8,
+         'Chrome Choke Chain 14 Gauge',
+         'Choke Chains are made from mild steel and high quality chrome plating',
+        50,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (9,
+         'Chrome Dog Chain K10*51/2',
+         'Lightweight collars will not create lines in the coat Extra fine chrome chain.',
+         175,
+         5);
+
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (10,
+         'ART SPORTIV PLUS COLLARS- Kiwi (XL)',
+         'With strain-relief. Continuously adjustable, sturdy nylon material, fashionable colours.',
+         520,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (11,
+         'Comfort Compact 5m All Tape-3',
+         'Flexi Comfort Compact 5m All Tape-3 The premium range that feature the soft grip handle, has been extended to include an all-webbing tape leash.',
+        2500,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (12,
+         'Nylon Collar 11/4',
+         'Made of high quality nylon material and steel hardware  width: 1  1/4 inch',
+        110,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (13,
+         'Show Lead Assorted',
+         'Assorted show leads come with a slim collar attached that can be adjusted for a customized fit.',
+        250,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (14,
+         'No-bark Control Dog Training Shock',
+         'Integration of static stimulation and tone command. Different levels of static stimulation to teach your pet to behave.',
+        1825,
+         8);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (15,
+         'Feeding Bowl Assorted',
+         'Feeding Bowl Assorted',
+         195,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (16,
+         'Cheese house pet bed',
+         'Cheese house pet bed',
+        2050,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (17,
+         'Translucent litter scoop',
+         'Translucent litter scoop',
+        110,
+         5);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+         DESCRIPTION,
+         PRICE,
+         CATEGORY_ID) VALUES (18,
+         'Nail Cutter Assorted',
+         'Nail Cutter Assorted',
+        325,
+         5);
+
+INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+        DESCRIPTION,
+        PRICE,
+        CATEGORY_ID) VALUES (19,
+         'BOOMER DENTO-BONE(B)',
+         'Boomer dento bone dog toy is made of natural bone boomers dento solid rubber',
+        660,
+         4);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+        DESCRIPTION,
+        PRICE,
+        CATEGORY_ID) VALUES (20,
+         'Puppy Latex Slipper, 12.5x5x6cm',
+         'Puppy Latex Slipper, 12.5x5x6cm',
+        250,
+         4);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+        DESCRIPTION,
+        PRICE,
+        CATEGORY_ID) VALUES (21,
+         'BOOMER RUBBER TREAT BALL' ,
+         'KARLIE Boomer Rubber Treat Ball -Can be filled with snacks. Extra long playing-fun' ,
+        950,
+         4);
+ INSERT INTO PET.PRODUCTS ( product_id,
+         NAME,
+        DESCRIPTION,
+        PRICE,
+        CATEGORY_ID) VALUES (22,
+         'Cat Toy Pipsqueak cat toy',
+         'Our little Pipsqueak Mouse Toys (each 2 1/2" long) are purrrfect pussycat playthings! Delightful mouse',
+        325,
+         4);
+
+
+
+
+
+
+
+
+
+
