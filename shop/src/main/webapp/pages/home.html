@@ -1,0 +1,30 @@
+
+<div ng-controller="productController as prodCtrl">
+	Select Category : <select ng-model="selectedCat" ng-options="cat.name for cat in categories" 
+    ng-change="getCatProducts()">
+    </select>
+
+	<h2>Available Products</h2>
+	<table id="prodTable" datatable="ng" dt-options="prodCtrl.dtOptions" class="row-border hover">
+		<thead>
+			<tr>
+				<th>Product</th>
+				<th>Description</th>
+				<th>Category</th>	
+				<th>Quantity</th>
+				<th>Price</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="product in products">
+				<td>{{ product.name }}</td>
+				<td>{{ product.description }}</td>
+				<td>{{ product.categoryName }}</td>
+				<td>{{ product.qty }}</td>
+				<td>{{ product.price }}</td>
+				<td><button ng-click="addToCart(product.productId)">Cart</button></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

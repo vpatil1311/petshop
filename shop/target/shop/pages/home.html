@@ -1,0 +1,24 @@
+
+<div>
+	<h3>Available Products</h3>
+	<table datatable="" class="row-border hover">
+		<thead>
+			<tr>
+				<th>Product</th>
+				<th>Description</th>
+				<th>Category</th>
+				<th>Quantity</th>
+				<th>Price</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="product in products">
+				<td>{{ product.name }}</td>
+				<td>{{ product.description }}</td>
+				<td>{{ product.categoryName }}</td>
+				<td>{{ product.qty }}</td>
+				<td>{{ product.price }}</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
