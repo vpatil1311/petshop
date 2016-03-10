@@ -1,2 +1,2 @@
 # petshop
-AngularJS Spring JPA
+AngularJS Spring JPA frameworks
